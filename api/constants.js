@@ -41,7 +41,7 @@ export const htmlContent = `
 <div class="title">Telegram Auto Reaction Bot 🎉</div>
 <img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
 
-<button class="button githubBtn" onclick="window.location='https://github.com/Malith-Rukshan/Auto-Reaction-Bot'">Open Source 🌱</button>
+<button class="button githubBtn" onclick="window.location='https://t.me/bustoz'">Open  🌱</button>
 
 <div style="margin: 5px;">
   <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot" data-size="large" data-show-count="true">Star</a>
